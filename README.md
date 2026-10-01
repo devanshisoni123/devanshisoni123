@@ -33,8 +33,4 @@ My long-term interest is AI-driven narrative design, and I'm building toward res
 
 Currently learning: **React**
 
-### Elsewhere
-
-[Portfolio](https://devanshisoni123.github.io) · [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE)
-
-<sub>Open to freelance and internship opportunities.</sub>
+<sub>Open to freelance and internship opportunities. Portfolio coming soon.</sub>

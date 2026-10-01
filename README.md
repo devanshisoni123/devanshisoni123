@@ -17,7 +17,7 @@ My long-term interest is AI-driven narrative design, and I'm building toward res
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**PetalPages**](https://github.com/devanshisoni123/petalpages) | Private, full-stack journaling app. [Live](https://devanshisoni123.github.io/petalpages) | Spring Boot, MySQL, vanilla JS |
+| [**PetalPages**](https://github.com/devanshisoni123/petalpages) | Private, full-stack journaling app (backend currently offline) | Spring Boot, MySQL, vanilla JS |
 | **Nagomi** | 24-page Japanese learning platform with kana, kanji, grammar, games and story mode | HTML, CSS, JS (Spring Boot backend in progress) |
 
 ### Tech
